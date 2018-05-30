@@ -2,11 +2,7 @@
 img {
 	max-width:99%;
 }
-code {
-	display:inline-block;
-	white-space: normal;
-	word-wrap: break-word;
-}
+
 pre {
   font: inherit;
   word-wrap: break-word;
