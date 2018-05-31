@@ -2,7 +2,9 @@
 img {
 	max-width:99%;
 }
-
+a {
+  color: blue;
+}
 pre {
   font: inherit;
   word-wrap: break-word;
