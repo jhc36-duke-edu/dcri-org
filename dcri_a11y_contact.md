@@ -14,8 +14,9 @@ pre {
 </style>
 
 # DCRI.org Contact Page Assessment
+__[dcri.org/contact-us/](https://dcri.org/contact-us/)__
 
-
+![DCRI Contact screenshot](assets/dcri-screenshot-contact.png)
 
 <details>
 <summary>__Table of Contents__</summary>
@@ -31,7 +32,7 @@ The contact form on this website is pretty good, but there are a few suggestions
 
 Here is a nice recource to [learn more about contact form accessibility on w3.org](https://www.w3.org/WAI/tutorials/forms/notifications/)
 
-###Demo of using the form with a screen reader:
+###Video demo of using the form with a screen reader:
 
 (To get the full effect, watch the video with your eyes closed.)
 

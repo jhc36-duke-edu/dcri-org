@@ -2,7 +2,9 @@
 img {
 	max-width:99%;
 }
-
+a {
+  color: blue;
+}
 pre {
   font: inherit;
   word-wrap: break-word;
@@ -12,8 +14,9 @@ pre {
 </style>
 
 # DCRI.org Who We Are Assessment
+__[dcri.org/about/who-we-are/](https://dcri.org/about/who-we-are/)__
 
-
+![DCRI Who We Are screenshot](assets/dcri-screenshot-who-we-are.png)
 
 <details>
 <summary>__Table of Contents__</summary>

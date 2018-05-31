@@ -14,10 +14,13 @@ pre {
 </style>
 
 # DCRI.org Homepage Assessment
+__[dcri.org](https://dcri.org)__
+
+![DCRI Homepage screenshot](assets/dcri-screenshot-home.png)
 
 Congratulations on everything on your team has done to try to make this website accessible. DCRI is amoung the most accessible website we have assessed, but there are issues that would need fixed to meet WCAG 2.0 AA criteria. The visual design passed virtually every test. But there are a few issues issues with the underlying code. 
 
-The assessment includes the homepage, landing page representatives, and the contact form. The homepage assessment includes global elements such as navigation and search. Those global elements are not repeated in the other documents. When they are fixed on the homepage it should naturally propagate to the subpages. 
+The assessment includes the homepage, landing page representative, and the contact form. The homepage assessment includes global elements such as navigation and search. Those global elements are not repeated in the other documents. When they are fixed on the homepage it should naturally propagate to the subpages. 
 
 If you need any assistance in understanding the issues or performing the fixes please reach out to us at web-accessibility@duke.edu or 919-613-4811. We may be able to come to you to assist with the remediation. The services provided by the Web Accessibility Team are free to Duke websites.
 
@@ -162,10 +165,10 @@ Success.
 <hr>
 <br>
 <br>
-## Interactive controls are keyboard focusable
+## [PRIORITY] Interactive controls are keyboard focusable
 Custom interactive controls are keyboard focusable and display a focus indicator. [Learn more](https://developers.google.com/web/fundamentals/accessibility/how-to-review#start_with_the_keyboard).
 
-### Rotating banner is missing required controls to make it accessible
+### Rotating banner is missing required controls to make it accessible 
 
 The website uses the [Soliloquy JS rotaing banner slider](https://soliloquywp.com/)
 
